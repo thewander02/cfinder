@@ -11,10 +11,10 @@
 
   --primary-glow: conic-gradient(
     from 180deg at 50% 50%,
-    #16abff33 0deg,
-    #0885ff33 55deg,
-    #54d6ff33 120deg,
-    #0071ff33 160deg,
+    #9616ff33 0deg,
+    #4a08ff33 55deg,
+    #cf54ff33 120deg,
+    #9900ff33 160deg,
     transparent 360deg
   );
   --secondary-glow: radial-gradient(
@@ -46,16 +46,16 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
 
-    --primary-glow: radial-gradient(rgba(1, 65, 255, 0.4), rgba(1, 65, 255, 0));
+    --primary-glow: radial-gradient(rgba(111, 1, 255, 0.4), rgba(1, 65, 255, 0));
     --secondary-glow: linear-gradient(
       to bottom right,
       rgba(1, 65, 255, 0),
       rgba(1, 65, 255, 0),
-      rgba(1, 65, 255, 0.3)
+      rgba(141, 1, 255, 0.3)
     );
 
-    --tile-start-rgb: 2, 13, 46;
-    --tile-end-rgb: 2, 5, 19;
+    --tile-start-rgb: 22, 2, 46;
+    --tile-end-rgb: 12, 2, 19;
     --tile-border: conic-gradient(
       #ffffff80,
       #ffffff40,
