@@ -21,7 +21,7 @@
 
 ## Built With
 
-This Project is built with Next JS, MUI, and Supabase.
+This Project is built with Next JS, Tailwind, and Supabase.
 
 
 
